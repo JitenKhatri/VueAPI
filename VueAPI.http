@@ -1,0 +1,6 @@
+@VueAPI_HostAddress = http://localhost:5030
+
+GET {{VueAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
